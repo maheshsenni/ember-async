@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.btn {
+	text-decoration: none;
+	padding: 5px;
+	color: blue;
+}
+.btn:hover {
+	text-decoration: underline;
+}
+.italics {
+	font-style: italic;
+	font-size: 0.9em;
+}
